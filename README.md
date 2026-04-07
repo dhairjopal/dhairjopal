@@ -21,7 +21,7 @@
 
 # 💻 Coding Life
 <p align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/3o7TKP8CkOI5Rx7Y4c/giphy.gif" width="350"/>
 </p>
 
 # 🐍 Contribution Snake
