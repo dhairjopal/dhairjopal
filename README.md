@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Dhairjo%20Pal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=220&section=header&text=Dhairjo%20Pal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Dhairjo Pal</h1>
 
-<h3 align="center">🚀 Frontend Developer | Vue.js | Quasar Framework</h3>
+<h3 align="center">🚀 Frontend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;Vue.js+Developer;Quasar+Framework+Developer;JavaScript+Developer;Building+Modern+Web+Apps"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=650&lines=Frontend+Developer;Vue.js+Developer;Quasar+Framework+Developer;JavaScript+Developer;Building+Modern+Web+Apps"/>
 </p>
 
 ---
@@ -37,9 +37,6 @@
 
 ---
 
-
----
-
 # 💻 Coding Life
 
 <p align="center">
@@ -47,21 +44,6 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
 
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhairjopal&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairjopal&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 
 ---
 
@@ -75,8 +57,6 @@
 
 ---
 
----
-
 # 📫 Connect With Me
 
 🌐 GitHub  
@@ -84,6 +64,7 @@ https://github.com/dhairjopal
 
 📧 Email  
 dhairjop@gmail.com
+
 ---
 
 ⭐ From Dhairjo Pal
