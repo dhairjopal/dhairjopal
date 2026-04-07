@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Dhairjo Pal</h1>
 
 <h3 align="center">
-<span style="color:#36BCF7;">💻 Software Engineer</span> &nbsp; | &nbsp; <span style="color:#FF6F61;">🚀 Frontend Developer</span>
+<span style="color:#36BCF7;">Software Engineer</span> 🚀 Frontend Developer
 </h3>
 
 <p align="center" style="margin-top:10px;">
@@ -26,7 +26,7 @@
 
 # 💻 Coding Life
 <p align="center">
-![Coding Life](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350"/>
 </p>
 
 # 🐍 Contribution Snake
