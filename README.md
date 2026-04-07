@@ -3,16 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Dhairjo Pal</h1>
-<h3 align="center">🚀 Frontend Developer</h3>
-
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-<img src="https://skillicons.dev/icons?i=vue" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7,FF6F61&center=true&vCenter=true&width=500&lines=💻+Software+Engineer;🚀+Frontend+Developer"/>
+</p>
+
+<p align="center" style="margin-top:8px;">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,vue,git,github" height="50"/>
 </p>
 
 # 👨‍💻 About Me
@@ -22,11 +19,9 @@
 🎯 Learning **Advanced Frontend Logic & API Handling**  
 🔥 Love building **Modern & Responsive Web Applications**
 
-
-
 # 💻 Coding Life
 <p align="center">
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/3o7TKP8CkOI5Rx7Y4c/giphy.gif" width="350"/>
 </p>
 
 # 🐍 Contribution Snake
@@ -34,6 +29,9 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
+# 📫 Connect With Me
+🌐 GitHub: https://github.com/dhairjopal  
+📧 Email: dhairjop@gmail.com
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=80&section=footer&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
