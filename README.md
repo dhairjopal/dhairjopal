@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋 I'm Dhairjo Pal</h1>
 
-<h3 align="center">
-<span style="color:#36BCF7;">Software Engineer</span> 🚀 Frontend Developer
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7,FF6F61&center=true&vCenter=true&width=500&lines=💻+Software+Engineer;🚀+Frontend+Developer"/>
+</p>
 
 <p align="center" style="margin-top:10px;">
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
