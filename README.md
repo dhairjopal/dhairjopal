@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=220&section=header&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=150&section=header&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Dhairjo Pal</h1>
@@ -7,10 +7,8 @@
 <h3 align="center">🚀 Frontend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=650&lines=Frontend+Developer;Vue.js+Developer;Quasar+Framework+Developer;JavaScript+Developer;Building+Modern+Web+Apps"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+Developer;Quasar+Framework+Developer;JavaScript+Developer;Building+Modern+Web+Apps"/>
 </p>
-
----
 
 # 👨‍💻 About Me
 
@@ -20,42 +18,28 @@
 🎯 Learning **Advanced Frontend Logic & API Handling**  
 🔥 Love building **Modern & Responsive Web Applications**
 
----
-
 # 🧠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
-<img src="https://skillicons.dev/icons?i=vue" height="55"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=vue" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </p>
-
----
 
 # 💻 Coding Life
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
-
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 </p>
-
----
 
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
 </p>
-
----
 
 # 📫 Connect With Me
 
@@ -64,7 +48,5 @@ https://github.com/dhairjopal
 
 📧 Email  
 dhairjop@gmail.com
-
----
 
 ⭐ From Dhairjo Pal
