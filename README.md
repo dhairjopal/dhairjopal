@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=140&section=header&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Dhairjo Pal</h1>
+<h1 align="center">Hi 👋 I'm Dhairjo!</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7,FF6F61&center=true&vCenter=true&width=500&lines=💻+Software+Engineer;🚀+Frontend+Developer"/>
