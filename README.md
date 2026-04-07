@@ -8,6 +8,16 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+Developer;Quasar+Framework+Developer;JavaScript+Developer;Building+Modern+Web+Apps"/>
+</p> 
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=vue" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </p>
 
 # 👨‍💻 About Me
@@ -18,7 +28,6 @@
 🎯 Learning **Advanced Frontend Logic & API Handling**  
 🔥 Love building **Modern & Responsive Web Applications**
 
-# 🧠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
@@ -40,13 +49,5 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
-
-# 📫 Connect With Me
-
-🌐 GitHub  
-https://github.com/dhairjopal
-
-📧 Email  
-dhairjop@gmail.com
 
 ⭐ From Dhairjo Pal
