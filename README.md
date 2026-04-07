@@ -5,10 +5,7 @@
 <h1 align="center">Hi 👋 I'm Dhairjo Pal</h1>
 <h3 align="center">🚀 Frontend Developer</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+Developer;Quasar+Framework+Developer;JavaScript+Developer;Building+Modern+Web+Apps"/>
-</p>
-# 🧠 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
