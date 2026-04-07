@@ -21,18 +21,13 @@
 
 # 💻 Coding Life
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKP8CkOI5Rx7Y4c/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="350"/>
 </p>
 
 # 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
-
-# 📫 Connect With Me
-🌐 GitHub: https://github.com/dhairjopal  
-📧 Email: dhairjop@gmail.com
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=80&section=footer&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
