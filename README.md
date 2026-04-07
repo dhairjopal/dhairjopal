@@ -25,11 +25,11 @@
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </p>
-
 # 💻 Coding Life
 <p align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/3o7TKP8CkOI5Rx7Y4c/giphy.gif" width="350"/>
 </p>
+
 # 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
