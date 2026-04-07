@@ -37,13 +37,6 @@
 
 ---
 
-# 🚀 Framework
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Quasar-Framework-1976D2?style=for-the-badge&logo=quasar&logoColor=white"/>
-
-</p>
 
 ---
 
@@ -69,13 +62,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhairjopal&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -88,30 +74,6 @@
 </p>
 
 ---
-
-# 🚀 Projects
-
-### 🌐 Portfolio Website  
-🔗 Live Demo: https://your-portfolio-link.com  
-💻 Repo: https://github.com/dhairjopal
-
-### 🛒 E-commerce UI  
-🔗 Live Demo: https://your-demo-link.com  
-💻 Repo: https://github.com/dhairjopal
-
-### 📊 Dashboard UI  
-🔗 Live Demo: https://your-demo-link.com  
-💻 Repo: https://github.com/dhairjopal
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dhairjopal&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
